@@ -1,7 +1,7 @@
 {
   "crons": [
     {
-      "path": "/api/wakeup",
+      "path": "/api/cron",
       "schedule": "*/5 * * * *"
     }
   ]
